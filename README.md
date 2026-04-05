@@ -70,7 +70,7 @@ The analysis was performed using Excel:
 
 ## 📊 Dashboard
 An Excel dashboard was created to visualize the analysis.
-
+![Dashboard](Dashboard.png)
 The dashboard includes:
 - Key Performance Indicators (KPIs)
 - Sales comparison (2018 vs 2019)
