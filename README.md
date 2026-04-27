@@ -34,7 +34,9 @@ This step ensured the dataset was ready for analysis.
 ---
 
 ## 📊 Analysis Approach
-- Developed a simple demand forecast model based on historical trends and seasonality  
+- Analysed historical sales trends and seasonality patterns  
+- Compared year-over-year performance (2018 vs 2019)  
+- Identified demand patterns to support better purchasing decisions  
 - Performed analysis using Microsoft Excel:
   - Calculated total sales per product  
   - Compared performance across months  
@@ -67,26 +69,31 @@ This step ensured the dataset was ready for analysis.
 ---
 
 ## 📊 Dashboard
-An Excel dashboard was created to visualize the analysis.
+An Excel dashboard was created to present the cleaned sales data and compare product performance between 2018 and 2019.
 ![Dashboard](Dashboard.png)
-The dashboard includes:
-- Key Performance Indicators (KPIs)
-- Sales comparison (2018 vs 2019)
-- Revenue and growth insights
 
-This helps present the data in a clear and easy-to-understand way.
+
+The dashboard includes:
+
+- Sales comparison by product
+- 2018 vs 2019 performance overview
+- Identification of products with sales decline or improvement
+- Basic visual insights to support inventory and purchasing decisions
+
+This dashboard helps turn raw sales data into clear business insights, making it easier to understand demand changes and support better stock planning.
 
 ---
 
-## 📅 Forecast (2019)
-Based on the analysis and proposed improvements, a **20% increase in sales** is expected for 2019.
+## 2019 Performance Insight
+
+After reviewing the 2018 and 2019 sales comparison, the analysis identified an estimated ~20% improvement in selected products, linked to better purchasing decisions and reduced waste.
 
 ---
 
 ## 📈 Business Impact
-- Reduced product waste to ~0% through improved demand forecasting  
+- Significantly reduced product waste through improved purchasing decisions  
 - Increased revenue by ~20% from 2018 to 2019  
-- Additional growth observed during seasonal and tourism periods  
+- Improved stock planning based on demand patterns 
 
 ---
 
@@ -112,3 +119,10 @@ This is an entry-level data analysis project focused on:
 - Business insights  
 
 The aim is to demonstrate understanding of data, even with limited technical tools.
+
+---
+
+## 💡 Future Improvements
+- Use SQL for data extraction and transformation  
+- Build an interactive dashboard using Power BI  
+- Apply more advanced forecasting techniques 
